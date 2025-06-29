@@ -3,3 +3,4 @@ cache/*
 data/*
 uv.lock
 maps/*
+__pycache__/*
