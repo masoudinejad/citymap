@@ -1,0 +1,1 @@
+Generate coordinates using [https://geojson.io/](https://geojson.io/)
