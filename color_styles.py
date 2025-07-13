@@ -26,11 +26,11 @@ STYLES = {
     "light_colorful": {
         "name": "Colorful Light",
         "description": "Vibrant colors on light background",
-        "background": "#fcfcfc",  # Lighter off-white
-        "roads": "#404040",  # Darker gray roads for contrast
+        "background": "#fcf8f0",  # Lighter off-white with a yellow-brown tint
+        "roads": "#1a1a1a",  # Very dark gray roads for contrast
         "buildings": "#ffcc99",  # More vibrant peach buildings
-        "water": "#3399ff",  # More saturated blue water
-        "green": "#66cc66",  # Brighter medium green
+        "water": "#0066cc",  # Darker blue water
+        "green": "#339933",  # Darker medium green
         "border": "#f0f0f0",  # Lighter gray border
     },
     "light_blueprint": {

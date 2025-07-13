@@ -115,5 +115,6 @@ if __name__ == "__main__":
         "natural": ["water", "wetland", "bay", "spring"],
         "waterway": True,
         "water": True,
+        "leisure": ["park", "garden", "nature_reserve"]
     }
     main(data_name, feature_tags)
